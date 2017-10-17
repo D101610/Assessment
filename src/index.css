@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    color: #606060;
+    font-family: TIMES NEW ROMAN;
+    background-color: #F6F6F6;
+}
+
+#topID{
+	position: relative;
+	top: 40%;
+	left: 40%;
+	width: 100%;
+	margin: 35px 0 0 0px;
+	font-size: 35px;
+	height: 70px;
+}
+
+
+#root{
+    float: left;
+	position: relative;
+	width: 70%;
+    height:500px;
+    border: 2px solid;
+    color: red;
+	border-color: #ffffff;
+    padding:  15px -20px 0px -20px;
+    background-color: #fcfcfc;
+}
+
+#leftContent{
+    float: left;
+	position: relative;
+	width: 10%;
+    height:470px;
+    border: 2px solid;
+    color: white;
+	border-color: #ffffff;
+    padding:  15px 15px 15px 15px;
+    background-color: #CF323C;
+}
+
+.rightContent{
+    float: left;
+	position: relative;
+	top: 0%;
+	left: 0%;
+	width: 12%;
+    height:470px;
+    color: white;
+    border: 2px solid;
+	border-color: #ffffff;
+    padding:  15px 15px 15px 15px;
+    background-color: #CF323C;
+}
+
+#bottomID{
+	position: relative;
+    display: inline-block;
+	top: 50%;
+	left: 42%;
+	height: 50px;
+	margin: 10px 0 0 0px;
+	font-size: 15px;
+}
+
+
+.booklistClass{
+    float: left;
+	position: relative;
+	text-align: center;;
+	top: 0%;
+	left: 0%;
+	color: #606060;
+	font-size: 12px;
+    padding:  0px 15px 15px 15px;
+    margin:  0px 15px 15px 15px;
+    background-color: #E7E7E7;
+	border: 2px solid;
+	box-shadow: 20px;
+	text-shadow: 10px;
+	border-color: #ffffff;
+}
+
+#carID{
+    float: left;
+	position: relative;
+    padding: 0px 15px 50px 15px;
+    margin:  -76px 15px 15px 15px;
+}
+
+#catalogueID{
+	align-items: center;
+	align-content: center;
+    float: left;
+    color: white;
+    margin:  5px 0px 0px -15px;
+
+}
+
+#loginID{
+	align-content: center;
+	width:100%;
+    height:40px;
+    font-weight: bold;
+    margin:  3px 0px 0px 0px;
+    color: white;
+    background-color: #3A958C;
+}
+
+#imgId{
+    width:100px;
+    height:100px;
+    position: relative;
+    margin:  10px 0px 5px 5px;
+}
+
+
+
+#detailImgId{
+    float: left;
+    position: relative;
+    margin:  30px 15px 15px 15px;
+    width:400px;
+    height:400px;
+}
+
+#ProductDetailID{
+    width:800px;
+    height:400px;
+}
+
+#detailTitleID{
+    float: left;
+}
+
+#detailTailID{
+    float: left;
+    position: relative;
+    margin:  30px 15px 15px 15px;
+}
